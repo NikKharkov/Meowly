@@ -1,0 +1,111 @@
+[versions]
+agp = "8.11.1"
+android-compileSdk = "36"
+android-minSdk = "24"
+android-targetSdk = "36"
+kotlinxDatetime = "0.6.1"
+settings = "1.3.0"
+peekaboo = "0.5.2"
+sqldelight = "2.1.0"
+androidx-activity = "1.10.1"
+androidx-lifecycle = "2.9.1"
+composeMultiplatform = "1.8.2"
+koin = "4.1.0"
+kotlin = "2.2.0"
+navigationCompose = "2.9.0-beta03"
+kotlinxSerialization = "1.9.0"
+kmpDateTimePicker = "1.0.9"
+compottie = "2.0.0-rc04"
+coil = "3.0.4"
+ktor = "2.3.12"
+gms = "4.4.3"
+gitlive-firebase = "2.1.0"
+webview = "2.0.2"
+kmpauth = "2.4.0-alpha03"
+openai = "4.0.1"
+filekit = "0.10.0"
+ads = "24.5.0"
+kmpNotifier = "1.5.1"
+moko-permissions = "0.19.1"
+
+[libraries]
+koin-android = { module = "io.insert-koin:koin-android", version.ref = "koin" }
+koin-compose = { module = "io.insert-koin:koin-compose", version.ref = "koin" }
+koin-compose-viewmodel = { module = "io.insert-koin:koin-compose-viewmodel", version.ref = "koin" }
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activity" }
+androidx-lifecycle-viewmodel = { module = "org.jetbrains.androidx.lifecycle:lifecycle-viewmodel", version.ref = "androidx-lifecycle" }
+androidx-lifecycle-runtimeCompose = { module = "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose", version.ref = "androidx-lifecycle" }
+kotlinx-datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version.ref = "kotlinxDatetime" }
+multiplatform-settings-no-arg = { module = "com.russhwolf:multiplatform-settings-no-arg", version.ref = "settings" }
+navigation-compose = { module = "org.jetbrains.androidx.navigation:navigation-compose", version.ref = "navigationCompose" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinxSerialization" }
+native-driver = { module = "app.cash.sqldelight:native-driver", version.ref = "sqldelight" }
+peekaboo-image-picker = { module = "io.github.onseok:peekaboo-image-picker", version.ref = "peekaboo" }
+peekaboo-ui = { module = "io.github.onseok:peekaboo-ui", version.ref = "peekaboo" }
+coil-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coil" }
+coil-ktor = { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "coil" }
+sqldelight-android-driver = { module = "app.cash.sqldelight:android-driver", version.ref = "sqldelight" }
+sqldelight-coroutines-extensions = { module = "app.cash.sqldelight:coroutines-extensions", version.ref = "sqldelight" }
+sqldelight-runtime = { module = "app.cash.sqldelight:runtime", version.ref = "sqldelight" }
+kmp-date-time-picker = { module = "network.chaintech:kmp-date-time-picker", version.ref = "kmpDateTimePicker" }
+compottie-core = { module = "io.github.alexzhirkevich:compottie", version.ref = "compottie" }
+compottie-resources = { module = "io.github.alexzhirkevich:compottie-resources", version.ref = "compottie" }
+compottie-dot = { module = "io.github.alexzhirkevich:compottie-dot", version.ref = "compottie" }
+gitlive-firebase-storage = { module = "dev.gitlive:firebase-storage", version.ref = "gitlive-firebase" }
+gitlive-firebase-authentication = { module = "dev.gitlive:firebase-auth", version.ref = "gitlive-firebase" }
+gitlive-firebase-fcm = { module = "dev.gitlive:firebase-messaging", version.ref = "gitlive-firebase" }
+gitlive-firebase-analytics = { module = "dev.gitlive:firebase-analytics", version.ref = "gitlive-firebase" }
+ktor-client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
+ktor-client-content-negotiation = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "ktor" }
+ktor-serialization-kotlinx-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
+ktor-client-logging = { module = "io.ktor:ktor-client-logging", version.ref = "ktor" }
+ktor-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
+ktor-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "ktor" }
+webview-multiplatform = { module = "io.github.kevinnzou:compose-webview-multiplatform", version.ref = "webview" }
+kmp-auth-google = { module = "io.github.mirzemehdi:kmpauth-google", version.ref = "kmpauth" }
+kmp-auth-uihelper = { module = "io.github.mirzemehdi:kmpauth-uihelper", version.ref = "kmpauth" }
+kmp-auth-firebase = { module = "io.github.mirzemehdi:kmpauth-firebase", version.ref = "kmpauth" }
+openai-client = { module = "com.aallam.openai:openai-client", version.ref = "openai" }
+filekit-core = { module = "io.github.vinceglb:filekit-core", version.ref = "filekit" }
+filekit-dialogs = { module = "io.github.vinceglb:filekit-dialogs", version.ref = "filekit" }
+filekit-dialogs-compose = { module = "io.github.vinceglb:filekit-dialogs-compose", version.ref = "filekit" }
+play-services-ads = { module = "com.google.android.gms:play-services-ads", version.ref = "ads" }
+kmpnotifier = { module = "io.github.mirzemehdi:kmpnotifier", version.ref = "kmpNotifier" }
+moko-permissions-core = { module = "dev.icerock.moko:permissions", version.ref = "moko-permissions" }
+moko-permissions-compose = { module = "dev.icerock.moko:permissions-compose", version.ref = "moko-permissions" }
+moko-permissions-notifications = { module = "dev.icerock.moko:permissions-notifications", version.ref = "moko-permissions" }
+
+[bundles]
+ktor-common = [
+    "ktor-client-core",
+    "ktor-client-content-negotiation",
+    "ktor-serialization-kotlinx-json",
+    "ktor-client-logging"
+]
+filekit-common = [
+    "filekit-core",
+    "filekit-dialogs",
+    "filekit-dialogs-compose"
+]
+moko-permissions = [
+    "moko-permissions-core",
+    "moko-permissions-compose",
+    "moko-permissions-notifications"
+]
+gitlive-firebase-sdk = [
+    "gitlive-firebase-storage",
+    "gitlive-firebase-authentication",
+    "gitlive-firebase-fcm",
+    "gitlive-firebase-analytics"
+]
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+androidLibrary = { id = "com.android.library", version.ref = "agp" }
+composeMultiplatform = { id = "org.jetbrains.compose", version.ref = "composeMultiplatform" }
+composeCompiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+kotlinxSerialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+sqldelight = { id = "app.cash.sqldelight", version.ref = "sqldelight" }
+google-services = { id = "com.google.gms.google-services", version.ref = "gms" }

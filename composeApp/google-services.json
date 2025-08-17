@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "278402966665",
+    "project_id": "catstagram-multiplatform",
+    "storage_bucket": "catstagram-multiplatform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278402966665:android:e5f7d75fa1640fe0ac9258",
+        "android_client_info": {
+          "package_name": "org.catstagram.trackpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278402966665-745dkot276l5ctcdsqq2okdjesj4jdq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.catstagram.trackpet",
+            "certificate_hash": "292e00920aade8a2ac6a480e8805630b89362b36"
+          }
+        },
+        {
+          "client_id": "278402966665-faetjgbp7u3ajcn42kn5s235b2ajjqfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.catstagram.trackpet",
+            "certificate_hash": "85a5833b8951b4011481697371ffe070e09e39a9"
+          }
+        },
+        {
+          "client_id": "278402966665-knfhoqo0h03nltg6t0bdp3ip2nfd6bgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhGZU0UVMs5mdQogyCh5vDkEsIJtfQ08I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278402966665-knfhoqo0h03nltg6t0bdp3ip2nfd6bgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278402966665-kqd2n4due0e92450fhgc7nv085dkk68p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.catstagram.trackpet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

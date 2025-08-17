@@ -1,0 +1,538 @@
+<resources>
+    <!-- Bottom navbar strings -->
+    <string name="home">Home</string>
+    <string name="handbook">Handbook</string>
+    <string name="add">Add</string>
+    <string name="chat_bot">Chat bot</string>
+    <string name="settings">Settings</string>
+
+    <!-- Registration screen strings -->
+    <string name="btn_edit">Edit</string>
+    <string name="btn_continue">Continue</string>
+    <string name="welcome_text">Add your first pet to join our pawsome community!</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter kitty's name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="select_birthdate">Select birthdate</string>
+    <string name="done">Done</string>
+
+    <!-- Home screen strings -->
+    <string name="today_news">Today News</string>
+    <string name="view_all_news">View All News</string>
+
+    <!-- Gallery screen strings -->
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="chosen">Chosen</string>
+    <string name="pls_login">Please sign in to save photos</string>
+    <string name="go_to_settings">Go to settings</string>
+
+    <!-- Settings screen strings -->
+    <string name="default_name">Guest</string>
+    <string name="account">Account</string>
+    <string name="preferences">Preferences</string>
+    <string name="sign_with_google">Sign in with Google</string>
+    <string name="sign_with_apple">Sign in with Apple</string>
+    <string name="log_out">Log out</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="notifications">Notifications</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="current_language">English</string>
+    <string name="notification_permission_title">Notification Permission</string>
+    <string name="notification_permission_message">To receive notifications about your pet's activities and important updates, please enable notifications in the app settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="about">About</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <!-- Chatbot screen strings -->
+    <string name="ask_me_anything">Ask me anything about cats...</string>
+    <string name="catgpt_doing_magic">CatGPT is doing magic... 🎨</string>
+    <string name="new_chat_title">New Chat</string>
+    <string name="new_chat_message">Are you sure you want to start a new chat? All message history will be deleted.</string>
+    <string name="new_chat_confirm">Yes, start over</string>
+    <string name="chatbot_info_label">Meow! I'm your friendly CatGPT Assistant 🐾</string>
+    <string name="about_assistant">About CatGPT Assistant</string>
+    <string name="chatbot_desc">Here to help you with all things feline – from care tips to fun facts and everything in between</string>
+    <string name="chatbot_box_label1">🐱 Who I am</string>
+    <string name="chatbot_box_text1">I'm your virtual cat assistant.I can help you with care tips, breed facts, behavior advice, and more!</string>
+    <string name="chatbot_box_label2">✨ What I can do</string>
+    <string name="chatbot_box_text2">Ask me things like: “Why is my cat meowing at night?” or “What’s the best food for a Persian cat?”</string>
+    <string name="chatbot_box_label3">⚠️ Limitations</string>
+    <string name="chatbot_box_text3">I'm smart, but I'm not a vet. For medical emergencies, please contact a real specialist.</string>
+    <string name="chatbot_box_label4">🔒 Your data is safe</string>
+    <string name="chatbot_box_text4">Your questions stay private.I don’t store or share your conversations.</string>
+
+    <!-- Handbook screen strings -->
+    <string name="personality">Personality</string>
+    <string name="personality_active">Active</string>
+    <string name="personality_intelligent">Intelligent</string>
+    <string name="personality_curious">Curious</string>
+    <string name="personality_social">Social</string>
+    <string name="personality_playful">Playful</string>
+    <string name="personality_gentle">Gentle</string>
+    <string name="personality_loyal">Loyal</string>
+    <string name="personality_independent">Independent</string>
+    <string name="personality_affectionate">Affectionate</string>
+    <string name="personality_easygoing">Easygoing</string>
+    <string name="personality_adaptable">Adaptable</string>
+    <string name="personality_tolerant">Tolerant</string>
+    <string name="personality_patient">Patient</string>
+    <string name="personality_friendly">Friendly</string>
+    <string name="personality_confident">Confident</string>
+    <string name="personality_athletic">Athletic</string>
+    <string name="personality_energetic">Energetic</string>
+    <string name="personality_vocal">Vocal</string>
+    <string name="personality_outgoing">Outgoing</string>
+    <string name="personality_lively">Lively</string>
+    <string name="personality_calm">Calm</string>
+    <string name="personality_mischievous">Mischievous</string>
+    <string name="personality_laid_back">Laid-back</string>
+    <string name="personality_sweet">Sweet</string>
+    <string name="personality_quiet">Quiet</string>
+    <string name="personality_docile">Docile</string>
+    <string name="personality_reserved">Reserved</string>
+    <string name="personality_adventurous">Adventurous</string>
+    <string name="personality_mellow">Mellow</string>
+    <string name="personality_extroverted">Extroverted</string>
+    <string name="personality_hypoallergenic">Hypoallergenic</string>
+    <string name="personality_demanding">Demanding</string>
+    <string name="personality_hardy">Hardy</string>
+
+    <string name="origin">Origin</string>
+    <string name="origin_ethiopia">Ethiopia</string>
+    <string name="origin_united_states">United States</string>
+    <string name="origin_england">England</string>
+    <string name="origin_russia">Russia</string>
+    <string name="origin_egypt">Egypt</string>
+    <string name="origin_arabian_peninsula">Arabian Peninsula</string>
+    <string name="origin_united_kingdom">United Kingdom</string>
+    <string name="origin_australia">Australia</string>
+    <string name="origin_thailand">Thailand</string>
+    <string name="origin_myanmar">Myanmar</string>
+    <string name="origin_brazil">Brazil</string>
+    <string name="origin_israel">Israel</string>
+    <string name="origin_norway">Norway</string>
+    <string name="origin_iran">Iran</string>
+    <string name="origin_singapore">Singapore</string>
+    <string name="origin_somalia">Somalia</string>
+    <string name="origin_canada">Canada</string>
+    <string name="origin_turkey">Turkey</string>
+    <string name="origin_scotland">Scotland</string>
+    <string name="origin_france">France</string>
+    <string name="origin_japan">Japan</string>
+    <string name="origin_ukraine">Ukraine</string>
+
+    <string name="size">Size</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_large">Large</string>
+
+    <string name="coat">Coat</string>
+    <string name="coat_short_hair">Short hair</string>
+    <string name="coat_semi_long_hair">Semi long hair</string>
+    <string name="coat_long_hair">Long hair</string>
+    <string name="coat_hairless">Hairless</string>
+    <string name="coat_wire_hair">Wire hair</string>
+    <string name="coat_curly">Curly</string>
+
+    <string name="care_tips">Care tips</string>
+    <string name="fun_fact">Fun fact</string>
+    <string name="search_cat_breeds">Search breeds, origin, personality</string>
+
+    <string name="abyssinian_name">Abyssinian</string>
+    <string name="abyssinian_short_description">An ancient and elegant breed known for their ticked coat and playful, curious nature</string>
+    <string name="abyssinian_care_tips">Abyssinians have short coats that require minimal grooming - weekly brushing is enough. They need plenty of mental stimulation and interactive toys to keep their active minds busy. Provide tall cat trees and climbing opportunities as they love heights.</string>
+    <string name="abyssinian_fun_fact">Abyssinians are often called "Aby-grabbys" because they love to grab and play with small objects with their paws, almost like little monkeys!</string>
+
+    <string name="american_shorthair_name">American Shorthair</string>
+    <string name="american_shorthair_short_description">A sturdy working breed descended from European cats brought by early settlers to protect ships from rodents</string>
+    <string name="american_shorthair_care_tips">American Shorthairs need weekly brushing to manage shedding and daily dental care to prevent gum disease. Monitor their weight carefully as they can become overweight. Provide interactive toys to satisfy their hunting instincts.</string>
+    <string name="american_shorthair_fun_fact">American Shorthairs arrived on the Mayflower in 1620 and were credited with saving New England crops from squirrels and chipmunks in 1634!</string>
+
+    <string name="american_wirehair_name">American Wirehair</string>
+    <string name="american_wirehair_short_description">A rare breed with unique wiry coat created by spontaneous genetic mutation in New York in 1966</string>
+    <string name="american_wirehair_care_tips">American Wirehairs need minimal grooming as their wiry coat can be fragile - only brush when necessary. Monitor weight carefully and provide interactive toys to satisfy their hunting instincts. Their skin may need occasional baths.</string>
+    <string name="american_wirehair_fun_fact">Every hair on an American Wirehair is crimped or bent, including their whiskers! They're considered one of the rarest cat breeds in the world.</string>
+
+    <string name="american_bobtail_name">American Bobtail</string>
+    <string name="american_bobtail_short_description">A rare breed with a naturally short bobbed tail and wild appearance, developed from a kitten found in Arizona in the 1960s</string>
+    <string name="american_bobtail_care_tips">American Bobtails need weekly brushing for both coat types and take 2-3 years to fully mature. They're great travelers and love interactive games like fetch. Monitor weight to prevent obesity and provide plenty of mental stimulation.</string>
+    <string name="american_bobtail_fun_fact">American Bobtails are called the "Golden Retrievers of cats" because of their dog-like behavior - they can be leash trained and love playing fetch!</string>
+
+    <string name="american_curl_name">American Curl</string>
+    <string name="american_curl_short_description">A charming breed with distinctive backward-curled ears, discovered as a stray kitten in California in 1981</string>
+    <string name="american_curl_care_tips">American Curls need regular ear cleaning due to their unique ear shape which can trap wax. Weekly brushing is sufficient for both coat types. They remain kitten-like throughout life and need interactive toys and climbing opportunities.</string>
+    <string name="american_curl_fun_fact">American Curls are called the "Peter Pan of cats" because they keep their playful, kitten-like personality throughout their entire lives!</string>
+
+    <string name="arabian_mau_name">Arabian Mau</string>
+    <string name="arabian_mau_short_description">An ancient natural breed from Arabian deserts, perfectly adapted to hot climates and evolved from African wildcats over 1000 years ago</string>
+    <string name="arabian_mau_care_tips">Arabian Maus need minimal grooming due to their single coat with no undercoat. They require lots of mental stimulation and at least 30 minutes of active play daily. They can be vocal and demanding, so patience is needed.</string>
+    <string name="arabian_mau_fun_fact">Arabian Maus are natural desert survivors with large ears for heat dissipation and no undercoat - they're like living air conditioners!</string>
+
+    <string name="asian_name">Asian</string>
+    <string name="asian_short_description">A breed accidentally created in UK in 1981 from mismating of Chinchilla Persian and Lilac Burmese, with Burmese body type but diverse colors</string>
+    <string name="asian_care_tips">Asians need weekly grooming and lots of interaction as they're very social "people cats". They can be sensitive to stress in multi-cat households. Provide secure outdoor access as they're bold and curious cats at risk of theft.</string>
+    <string name="asian_fun_fact">The Asian breed started with a forbidden romance between two cats named Sanquist and Faberge - a real Romeo and Juliet story!</string>
+
+    <string name="australian_mist_name">Australian Mist</string>
+    <string name="australian_mist_short_description">A breed developed in Australia in 1970s from Burmese, Abyssinian and domestic cats, originally called Spotted Mist</string>
+    <string name="australian_mist_care_tips">Australian Mists need weekly grooming and are perfect indoor cats with excellent temperaments. They mature slowly and full coat color develops by age 2. Monitor diet as they can become overweight. Very tolerant of handling and great with children.</string>
+    <string name="australian_mist_fun_fact">Australian Mists were specifically bred to be indoor cats and some can be trained to walk on a leash - perfect for apartment living!</string>
+
+    <string name="balinese_name">Balinese</string>
+    <string name="balinese_short_description">A long-haired mutation of Siamese cats with silky coat and sapphire-blue eyes, named after graceful Balinese dancers</string>
+    <string name="balinese_care_tips">Balinese need weekly brushing as they have no undercoat and rarely mat. They're very vocal and demand attention - don't leave alone for long periods. Provide tall cat trees and interactive toys. They love to "help" with daily activities.</string>
+    <string name="balinese_fun_fact">Balinese cats believe they ARE people and will try to help with everything - from cooking dinner to reading your mail!</string>
+
+    <string name="bambino_name">Bambino</string>
+    <string name="bambino_short_description">A controversial new breed created in 2005 by crossing Sphynx and Munchkin cats, resulting in a hairless dwarf cat with short legs</string>
+    <string name="bambino_care_tips">Bambinos need frequent bathing, sun protection due to hairless skin, and temperature control. Despite short legs they're very active and athletic. Regular vet visits essential due to potential health issues from both parent breeds.</string>
+    <string name="bambino_fun_fact">The name "Bambino" means "baby" in Italian - even when fully grown, they still look like adorable kittens!</string>
+
+    <string name="bengal_name">Bengal</string>
+    <string name="bengal_short_description">A striking breed with leopard-like spots created by crossing Asian Leopard Cats with domestic cats in the 1960s</string>
+    <string name="bengal_care_tips">Bengals need lots of mental stimulation and interactive toys as they're extremely intelligent and active. Many love water and can be leash trained. They require experienced owners and shouldn't be left alone for long periods. Provide tall cat trees for climbing.</string>
+    <string name="bengal_fun_fact">Unlike most cats, many Bengals actually love water and may try to join you in the shower or bath!</string>
+
+    <string name="birman_name">Birman</string>
+    <string name="birman_short_description">Known as Sacred Cat of Burma, with distinctive white "gloves" on paws, blue eyes, and semi-long silky coat</string>
+    <string name="birman_care_tips">Birmans need brushing 2-3 times per week as their coat doesn't mat easily due to no undercoat. They're very social "velcro cats" who follow owners around. Perfect for families as they're gentle with children and other pets.</string>
+    <string name="birman_fun_fact">According to legend, Birmans got their blue eyes and white gloves from a goddess when a temple cat placed his paws on his dying priest master!</string>
+
+    <string name="bombay_name">Bombay</string>
+    <string name="bombay_short_description">A "mini black panther" created in 1950s by breeding black American Shorthairs with Burmese cats</string>
+    <string name="bombay_care_tips">Bombays need minimal grooming with weekly brushing. They're very social and people-oriented cats who don't like being alone. Provide interactive toys and attention. They can be quite vocal and demanding when they want something.</string>
+    <string name="bombay_fun_fact">Bombays were specifically bred to look like miniature black panthers with bright copper eyes!</string>
+
+    <string name="brazilian_shorthair_name">Brazilian Shorthair</string>
+    <string name="brazilian_shorthair_short_description">Brazil's first native breed developed from street cats, known for their hardy nature and diverse colors</string>
+    <string name="brazilian_shorthair_care_tips">Brazilian Shorthairs are low-maintenance cats with minimal grooming needs. They're hardy and adaptable, good for both indoor and outdoor living. Very social and intelligent, they make excellent family pets and get along well with children and other animals.</string>
+    <string name="brazilian_shorthair_fun_fact">Brazilian Shorthairs were developed from the hardy street cats of Brazil and are known for their exceptional health and longevity!</string>
+
+    <string name="british_shorthair_name">British Shorthair</string>
+    <string name="british_shorthair_short_description">An ancient British breed with dense plush coat, round face, and calm "teddy bear" appearance</string>
+    <string name="british_shorthair_care_tips">British Shorthairs need regular brushing especially during shedding seasons due to their dense coat. They're calm, independent cats who don't demand constant attention. Monitor weight as they can become overweight. They mature slowly, reaching full size by 3-5 years.</string>
+    <string name="british_shorthair_fun_fact">British Shorthairs are the inspiration for the Cheshire Cat in Alice in Wonderland with their famous perpetual smile!</string>
+
+    <string name="british_longhair_name">British Longhair</string>
+    <string name="british_longhair_short_description">A fluffy version of British Shorthair created by crossing with Persians, sharing the same calm temperament but with luxurious long coat</string>
+    <string name="british_longhair_care_tips">British Longhairs need regular brushing to prevent matting due to their dense, plush coat. They're independent cats who don't demand constant attention but are affectionate. Monitor weight and provide moderate exercise. They mature slowly like their shorthair cousins.</string>
+    <string name="british_longhair_fun_fact">British Longhairs are essentially British Shorthairs in fancy fur coats - same personality, just fluffier!</string>
+
+    <string name="burmese_name">Burmese</string>
+    <string name="burmese_short_description">An ancient breed from Burma, with most modern cats descended from Wong Mau who arrived in the US in 1930</string>
+    <string name="burmese_care_tips">Burmese are very social and people-oriented cats who need lots of attention and interaction. They're playful and intelligent, good with children. Minimal grooming needed for their short coat. Watch for heart and kidney issues common in the breed.</string>
+    <string name="burmese_fun_fact">All modern Burmese cats can trace their lineage back to one female cat named Wong Mau who was brought from Burma to America in 1930!</string>
+
+    <string name="burmilla_name">Burmilla</string>
+    <string name="burmilla_short_description">An accidental breed created in 1981 when a male Chinchilla Persian mated with a female Burmese, resulting in stunning silver-tipped coats</string>
+    <string name="burmilla_care_tips">Burmillas have moderate grooming needs and come in both short and semi-long coat varieties. They're gentle, playful cats with independent yet affectionate personalities. They're good family pets and get along well with children and other pets.</string>
+    <string name="burmilla_fun_fact">Burmillas were created by accident in 1981 when two cats escaped their separate rooms and had a romantic encounter, creating this beautiful breed!</string>
+
+    <string name="havana_brown_name">Havana Brown</string>
+    <string name="havana_brown_short_description">A rare chocolate-brown breed developed in England in the 1950s, distinguished as the only solid brown cat with brown whiskers</string>
+    <string name="havana_brown_care_tips">Havana Browns are social, intelligent cats who need mental stimulation and interaction. They're playful but can be mischievous when bored. Minimal grooming needed. This is an endangered breed with a very small gene pool, so health monitoring is important.</string>
+    <string name="havana_brown_fun_fact">Havana Browns are the only cats that are completely brown - even their whiskers are brown! They're currently endangered due to a very small gene pool.</string>
+
+    <string name="devon_rex_name">Devon Rex</string>
+    <string name="devon_rex_short_description">A curly-coated breed from Devon, England with large ears and mischievous personality, born from a spontaneous genetic mutation in the 1960s</string>
+    <string name="devon_rex_care_tips">Devon Rex cats need minimal grooming due to their sparse, curly coat that rarely sheds. They're very active and social "velcro cats" who want to be involved in everything. Provide lots of mental stimulation and climbing opportunities. They can be sensitive to temperature.</string>
+    <string name="devon_rex_fun_fact">Devon Rex cats are often called "poodle cats" for their curly coats and are known to perch on their owner's shoulders like parrots!</string>
+
+    <string name="donskoy_name">Donskoy</string>
+    <string name="donskoy_short_description">Also known as Don Sphynx, a hairless breed from Russia discovered in 1987, with a dominant hairless gene unlike the Sphynx</string>
+    <string name="donskoy_care_tips">Donskoy cats need regular bathing to manage skin oils and protection from sun and cold due to hairlessness. They're social, affectionate cats who love warm cuddles. Provide mental stimulation as they're intelligent and mischievous climbers.</string>
+    <string name="donskoy_fun_fact">Donskoy cats were discovered when a professor rescued a mistreated hairless kitten in Russia - all attempts to restore its coat failed, leading to this amazing breed!</string>
+
+    <string name="egyptian_mau_name">Egyptian Mau</string>
+    <string name="egyptian_mau_short_description">The only naturally spotted domestic cat breed and fastest domestic cat, capable of running up to 30 mph</string>
+    <string name="egyptian_mau_care_tips">Egyptian Maus are active, athletic cats who need plenty of exercise and climbing opportunities. They're shy with strangers but devoted to family. Weekly brushing is sufficient for their spotted coat. They're sensitive and need patient socialization.</string>
+    <string name="egyptian_mau_fun_fact">Egyptian Maus are the fastest domestic cats, capable of running up to 30 mph thanks to their unique flap of skin extending from flank to hind leg!</string>
+
+    <string name="canaan_name">Canaan</string>
+    <string name="canaan_short_description">A rare experimental breed developed in Israel from local feral cats, designed to resemble the biblical land of Canaan</string>
+    <string name="canaan_care_tips">Canaan cats are hardy, adaptable cats with minimal grooming needs. They're intelligent and independent but bond closely with their families. Provide mental stimulation and interactive play. They're generally healthy due to their diverse genetic background.</string>
+    <string name="canaan_fun_fact">Canaan cats were developed from Israeli street cats to create a breed that represents the ancient biblical land of Canaan!</string>
+
+    <string name="khao_manee_name">Khao Manee</string>
+    <string name="khao_manee_short_description">Ancient Thai breed called "White Jewel" known for pure white coat and jewel-colored eyes, often odd-eyed with different colored eyes</string>
+    <string name="khao_manee_care_tips">Khao Manees need minimal grooming but require lots of attention and social interaction. They're very talkative and don't like being alone. Watch for potential deafness linked to blue eyes and white coat. They're athletic climbers who need vertical space.</string>
+    <string name="khao_manee_fun_fact">Khao Manees are called "Diamond Eye cats" and are believed to bring good luck in Thailand - they can cost up to $11,000 due to their rarity!</string>
+
+    <string name="cymric_name">Cymric</string>
+    <string name="cymric_short_description">The long-haired version of the Manx cat from Isle of Man, known for being tailless or having a stub tail</string>
+    <string name="cymric_care_tips">Cymrics need regular brushing due to their long double coat. They're intelligent, playful cats who can be taught tricks and enjoy interactive games. Watch for spinal issues related to the tailless gene. They're good with children and other pets.</string>
+    <string name="cymric_fun_fact">Cymrics are essentially long-haired Manx cats - the name comes from "Cymru," the Welsh word for Wales, though they're actually from the Isle of Man!</string>
+
+    <string name="cornish_rex_name">Cornish Rex</string>
+    <string name="cornish_rex_short_description">A curly-coated breed from Cornwall with only undercoat hair, known for being energetic, elegant, and having a wavy coat</string>
+    <string name="cornish_rex_care_tips">Cornish Rex cats have minimal grooming needs due to their curly undercoat-only fur. They're very active and social cats who need lots of interaction and mental stimulation. Best suited for indoor living due to their light coat. They retain kitten-like personalities throughout life.</string>
+    <string name="cornish_rex_fun_fact">Cornish Rex cats only have the soft undercoat layer of fur - no guard hairs or awn hairs like other cats, making them feel like warm suede!</string>
+
+    <string name="korat_name">Korat</string>
+    <string name="korat_short_description">An ancient silver-blue breed from Thailand mentioned in 14th century poems, considered a symbol of good luck and prosperity</string>
+    <string name="korat_care_tips">Korats are gentle, quiet cats who bond closely with their families. They need minimal grooming with weekly brushing. They're intelligent but can be shy with strangers, so early socialization is important. They prefer calm households and don't like loud noises.</string>
+    <string name="korat_fun_fact">Korats are considered so lucky in Thailand that they're traditionally given as wedding gifts to bring prosperity and happiness to newlyweds!</string>
+
+    <string name="kurilian_bobtail_name">Kurilian Bobtail</string>
+    <string name="kurilian_bobtail_short_description">A natural breed from Russian Kuril Islands with unique bobbed tail, excellent fishing and hunting skills, and wild appearance</string>
+    <string name="kurilian_bobtail_care_tips">Kurilian Bobtails are highly active cats who need lots of exercise and mental stimulation. They're excellent climbers and may need leash training for safe outdoor time. Weekly brushing for short-haired, daily for long-haired varieties. Watch around small pets due to high prey drive.</string>
+    <string name="kurilian_bobtail_fun_fact">Kurilian Bobtails are excellent fishers who love playing in water - each cat's bobtail is unique like a fingerprint or snowflake!</string>
+
+    <string name="laperm_name">LaPerm</string>
+    <string name="laperm_short_description">A curly-coated breed that originated from a barn cat mutation in Oregon, known for their soft, springy curls and gentle nature</string>
+    <string name="laperm_care_tips">LaPerms need gentle brushing to maintain their curls without damaging them. They're affectionate, people-oriented cats who enjoy being involved in daily activities. They're good with children and other pets. Their coat can vary from loose waves to tight curls.</string>
+    <string name="laperm_fun_fact">LaPerms got their name because their curly coat resembles a permanent wave (perm) hairstyle - they can even go temporarily bald before growing their curls back!</string>
+
+    <string name="lykoi_name">Lykoi</string>
+    <string name="lykoi_short_description">Known as "Werewolf Cats" due to their patchy, sparse coat and wolf-like appearance caused by a natural genetic mutation</string>
+    <string name="lykoi_care_tips">Lykoi cats need indoor living due to their sparse coat and lack of undercoat. They're high-energy, playful cats who exhibit dog-like behaviors like fetching. They need protection from sun and cold. Feed high-quality wet food and avoid free-feeding.</string>
+    <string name="lykoi_fun_fact">Lykoi means "wolf" in Greek - these "werewolf cats" sometimes hunt toys in packs like miniature wolves and can be possessive of their toys!</string>
+
+    <string name="maine_coon_name">Maine Coon</string>
+    <string name="maine_coon_short_description">Gentle giants from America with impressive size, tufted ears, and dog-like loyalty</string>
+    <string name="maine_coon_care_tips">Maine Coons need daily brushing to prevent matting of their long coat, especially during shedding seasons. Their large size requires sturdy furniture and bigger litter boxes. Regular dental care and nail trimming are essential. They love interactive play and need space to roam.</string>
+    <string name="maine_coon_fun_fact">Maine Coons can weigh up to 25 pounds and are known as "dog cats" because they often follow their owners around and can even be leash trained!</string>
+
+    <string name="munchkin_name">Munchkin</string>
+    <string name="munchkin_short_description">The "sausage cat" with short legs but a huge personality and playful spirit</string>
+    <string name="munchkin_care_tips">Munchkins require regular brushing depending on coat length and need gentle exercise to maintain healthy weight. Monitor for back problems and provide low-entry litter boxes and food dishes. Their short legs don't limit their playfulness, so provide plenty of toys at ground level.</string>
+    <string name="munchkin_fun_fact">Despite their short legs, Munchkins can run just as fast as other cats and are surprisingly good jumpers, though they prefer to take a running start!</string>
+
+    <string name="manx_name">Manx</string>
+    <string name="manx_short_description">The tailless wonder from Isle of Man, known for rabbit-like hops and devoted companionship</string>
+    <string name="manx_care_tips">Manx cats need weekly brushing and careful monitoring for spinal issues related to their tailless gene. Provide soft bedding and gentle handling of their spine area. They're prone to weight gain, so monitor diet carefully and encourage active play.</string>
+    <string name="manx_fun_fact">Manx cats move with a distinctive rabbit-like hop due to their longer hind legs, and some believe they bring good luck to their households!</string>
+
+    <string name="nebelung_name">Nebelung</string>
+    <string name="nebelung_short_description">The mystical "creature of the mist" with shimmering blue-gray coat and reserved elegance</string>
+    <string name="nebelung_care_tips">Nebelungs need regular brushing 2-3 times per week to maintain their silky coat and prevent matting. They're sensitive cats that prefer quiet environments and consistent routines. Provide high perches and cozy hiding spots for their shy nature.</string>
+    <string name="nebelung_fun_fact">The breed name "Nebelung" means "creature of the mist" in German, referring to their ethereal blue-gray coat that seems to shimmer like morning fog!</string>
+
+    <string name="norwegian_forest_name">Norwegian Forest Cat</string>
+    <string name="norwegian_forest_short_description">Ancient Viking cats with waterproof coats, built for surviving harsh Scandinavian winters</string>
+    <string name="norwegian_forest_care_tips">Norwegian Forest Cats need daily brushing during shedding seasons and weekly otherwise. Their waterproof double coat requires special attention. They're natural climbers, so provide tall cat trees and secure high perches. Regular exercise prevents weight gain.</string>
+    <string name="norwegian_forest_fun_fact">These cats were the companions of Viking explorers and are mentioned in Norse mythology as the cats that pull the goddess Freyja's chariot across the sky!</string>
+
+    <string name="oriental_shorthair_name">Oriental Shorthair</string>
+    <string name="oriental_shorthair_short_description">The "rainbow cat" with over 300 color combinations and Siamese intelligence in a designer package</string>
+    <string name="oriental_shorthair_care_tips">Oriental Shorthairs need weekly brushing to control light shedding and daily interactive play to satisfy their high intelligence. Provide tall cat trees for climbing and hide food puzzles around the house. They require constant companionship and don't do well alone for long periods.</string>
+    <string name="oriental_shorthair_fun_fact">Oriental Shorthairs are nicknamed "Ornamentals" because they come in more colors and patterns than any other breed - over 300 combinations including some that look like living works of art!</string>
+
+    <string name="ocicat_name">Ocicat</string>
+    <string name="ocicat_short_description">The wild-looking spotted athlete with no wild blood - a completely domestic cat that resembles an ocelot</string>
+    <string name="ocicat_care_tips">Ocicats need minimal grooming but require extensive physical and mental stimulation due to their high energy. They can be leash-trained and enjoy interactive toys. Provide climbing structures and secure high perches. They're sensitive to scolding but respond well to positive reinforcement.</string>
+    <string name="ocicat_fun_fact">Despite looking like a wild ocelot, Ocicats are 100% domestic and were created by accident in 1964 when a breeder was trying to make Abyssinian-pointed Siamese cats but got spotted kittens instead!</string>
+
+    <string name="persian_name">Persian</string>
+    <string name="persian_short_description">The glamorous aristocrat with luxurious long fur and a sweet, calm demeanor - the ultimate lap cat</string>
+    <string name="persian_care_tips">Persians require daily brushing to prevent matting and regular bathing every 6 weeks. Clean their eyes daily due to excessive tearing, and trim fur around paws and rear for hygiene. They prefer quiet environments and need carefully controlled portions to prevent weight gain.</string>
+    <string name="persian_fun_fact">Persian cats have been royal favorites for centuries - Queen Victoria owned two blue Persians, and they've appeared in James Bond films as the classic villain's cat!</string>
+
+    <string name="peterbald_name">Peterbald</string>
+    <string name="peterbald_short_description">The elegant hairless Russian with dog-like loyalty and coat varieties from completely bald to brush-textured</string>
+    <string name="peterbald_care_tips">Peterbalds need regular bathing to remove skin oils and protection from sun and cold weather. They require more food than average cats due to faster metabolism. Their coats can change throughout their lifetime, and they need constant human companionship to thrive.</string>
+    <string name="peterbald_fun_fact">Peterbald cats can be born with five different coat types - from completely bald to normal fur - and their coat can actually change texture and length throughout their lifetime!</string>
+
+    <string name="ragamuffin_name">Ragamuffin</string>
+    <string name="ragamuffin_short_description">The gentle giant "teddy bear cat" with rabbit-soft fur and a tendency to go limp when held like a ragdoll</string>
+    <string name="ragamuffin_care_tips">Ragamuffins need twice-weekly brushing despite their long coats being surprisingly tangle-resistant. Monitor their weight carefully as they can become overweight due to their laid-back nature. They mature slowly, not reaching full size until 4-5 years old.</string>
+    <string name="ragamuffin_fun_fact">Ragamuffin kittens are born almost completely white and develop their beautiful colors and patterns as they mature - it's like watching a painting come to life!</string>
+
+    <string name="ragdoll_name">Ragdoll</string>
+    <string name="ragdoll_short_description">The gentle giant "puppy cat" famous for going limp when held and following owners like a loyal dog</string>
+    <string name="ragdoll_care_tips">Ragdolls need weekly brushing with a steel comb to prevent matting of their semi-long coat. They're prone to weight gain due to their placid nature, so monitor portions carefully. They prefer staying low to the ground rather than climbing high, but still need interactive play to stay fit.</string>
+    <string name="ragdoll_fun_fact">Ragdolls are called "puppy cats" because they greet you at the door, follow you around the house, and can even be trained to play fetch and come when called!</string>
+
+    <string name="russian_blue_name">Russian Blue</string>
+    <string name="russian_blue_short_description">The elegant silver-blue aristocrat with emerald eyes and a naturally smiling expression from Russian royalty</string>
+    <string name="russian_blue_care_tips">Russian Blues need weekly brushing to maintain their plush double coat and prevent shedding. They prefer routine and quiet environments, becoming stressed by sudden changes. Monitor their food intake as they love to eat and can easily become overweight.</string>
+    <string name="russian_blue_fun_fact">Russian Blues are born with yellow eyes that gradually turn bright emerald green around 4 months old, and they naturally appear to be smiling due to their facial structure!</string>
+
+    <string name="savannah_name">Savannah</string>
+    <string name="savannah_short_description">The exotic hybrid with wild serval ancestry - a spotted athlete that can jump 8 feet and loves water</string>
+    <string name="savannah_care_tips">Savannahs need extensive daily exercise and mental stimulation due to their high energy levels. They can be leash-trained and enjoy water play. Provide tall climbing structures and secure outdoor enclosures. They require high-protein diets and constant supervision around small pets.</string>
+    <string name="savannah_fun_fact">Savannah cats can jump up to 8 feet high, love playing in water, and the F1 generation can cost over $20,000 making them one of the world's most expensive cat breeds!</string>
+
+    <string name="selkirk_rex_name">Selkirk Rex</string>
+    <string name="selkirk_rex_short_description">The "cat in sheep's clothing" with naturally curly coat and whiskers - the only breed named after a person</string>
+    <string name="selkirk_rex_care_tips">Selkirk Rex cats need gentle combing 1-2 times per week to prevent mats in their curly coat. Avoid over-brushing which can cause frizziness. Use your fingers to fluff their curls for best results. They're generally low-maintenance but need attention and companionship.</string>
+    <string name="selkirk_rex_fun_fact">The Selkirk Rex is the only cat breed named after a real person - breeder Jeri Newman named them after her stepfather Selkirk, and they can have both curly and straight-haired kittens in the same litter!</string>
+
+    <string name="siamese_name">Siamese</string>
+    <string name="siamese_short_description">The talkative blue-eyed extrovert from Thailand - intelligent, social, and devoted "Meezers" who demand attention</string>
+    <string name="siamese_care_tips">Siamese cats need daily interaction and mental stimulation due to their high intelligence and social nature. They don't do well alone and may need companion pets. Their short coat requires minimal grooming but they need regular dental care and controlled portions to prevent weight gain.</string>
+    <string name="siamese_fun_fact">Siamese cats are nicknamed "Meezers" for their loud, distinctive voices and were once owned by royalty - the first Siamese in America was a gift to President Rutherford B. Hayes in 1878!</string>
+
+    <string name="siberian_name">Siberian</string>
+    <string name="siberian_short_description">The "dog-like" Russian forest cat with triple-layered coat and hypoallergenic qualities - a gentle giant adventurer</string>
+    <string name="siberian_care_tips">Siberians need regular brushing 2-3 times per week, more during shedding seasons. They're very social and don't like being alone for long periods. Provide climbing structures and interactive toys. Their coat is surprisingly easy to care for despite its length.</string>
+    <string name="siberian_fun_fact">Siberian cats are often called "dog-like" because they play fetch, follow you around, come when called, and many even enjoy water - some will join you in the shower!</string>
+
+    <string name="singapura_name">Singapura</string>
+    <string name="singapura_short_description">The world's smallest cat breed from Singapore's streets - a pocket-sized extrovert with sepia-toned ticked coat</string>
+    <string name="singapura_care_tips">Singapuras need minimal grooming but require lots of attention and mental stimulation. They don't like loud noises and prefer calm environments. Provide climbing opportunities and puzzle toys. They hate being left alone for long periods.</string>
+    <string name="singapura_fun_fact">Singapuras hold the Guinness World Record as the smallest domestic cat breed, and Singapore made them their official tourism mascot, calling them "Kucinta" (love cat)!</string>
+
+    <string name="snowshoe_name">Snowshoe</string>
+    <string name="snowshoe_short_description">The rare bicolor beauty with white "snowshoe" paws - a sweet Siamese mix with dog-like loyalty and blue eyes</string>
+    <string name="snowshoe_care_tips">Snowshoes need weekly brushing despite their short coat and regular nail trimming. They're very social and need companionship - don't leave them alone for long. Many enjoy water play and can be leash-trained for outdoor adventures.</string>
+    <string name="snowshoe_fun_fact">Snowshoe cats are born completely white and develop their colorpoint patterns within the first few weeks - and many love water so much they might join you in the bathtub!</string>
+
+    <string name="somali_name">Somali</string>
+    <string name="somali_short_description">The "fox cat" with bushy tail and ticked coat - a long-haired Abyssinian acrobat with boundless energy</string>
+    <string name="somali_care_tips">Somalis need weekly brushing to prevent matting and extensive daily exercise due to their high energy. Provide tall cat trees, puzzle toys, and interactive play sessions. They're natural athletes who can jump impressive heights and love fetch games.</string>
+    <string name="somali_fun_fact">Somali cats are nicknamed "fox cats" for their bushy tails and are such amazing athletes they can leap incredible distances and are often described as having "levitation" abilities!</string>
+
+    <string name="sphynx_name">Sphynx</string>
+    <string name="sphynx_short_description">The hairless extrovert with peach-soft skin - an attention-seeking acrobat who thinks they're the center of the universe</string>
+    <string name="sphynx_care_tips">Sphynx cats need regular bathing to remove skin oils and sun protection due to their hairlessness. They require warm environments and clothing in cold weather. Clean their large ears weekly and provide constant attention - they don't do well alone.</string>
+    <string name="sphynx_fun_fact">Despite being hairless, Sphynx cats feel like warm peach skin and are often called "dog cats" because they greet visitors at the door and follow their owners everywhere like loyal dogs!</string>
+
+    <string name="thai_name">Thai</string>
+    <string name="thai_short_description">Graceful cat with blue eyes and acromelanic coloring, known for loyalty and talkative nature</string>
+    <string name="thai_care_tips">Brush twice a month with special brush, avoid frequent water procedures. Cannot tolerate cold, needs warmth. Very social and follows owner around the house.</string>
+    <string name="thai_fun_fact">In ancient Siam they were considered sacred guardians of deceased souls, for which the gods rewarded them with heavenly blue eyes</string>
+
+    <string name="toyger_name">Toyger</string>
+    <string name="toyger_short_description">Domestic 'toy tiger' with vertical stripes and friendly character</string>
+    <string name="toyger_care_tips">Weekly brushing with soft brush, ensure physical activity. Many love water and bathe well. Prone to weight gain so monitor diet and encourage play.</string>
+    <string name="toyger_fun_fact">Name comes from merging 'toy' + 'tiger'. Many representatives of the breed love water and some enjoy swimming</string>
+
+    <string name="turkish_angora_name">Turkish Angora</string>
+    <string name="turkish_angora_short_description">Elegant long-haired cat with silky coat, often with different colored eyes</string>
+    <string name="turkish_angora_care_tips">Weekly brushing, no undercoat makes care easy. Very active, need toys and high places. Many enjoy water and can swim. Poor tolerance for loneliness.</string>
+    <string name="turkish_angora_fun_fact">Was favorite of Catherine the Great and Cardinal de Richelieu. Many representatives love water and can swim gracefully</string>
+
+    <string name="turkish_van_name">Turkish Van</string>
+    <string name="turkish_van_short_description">Large semi-longhaired cat with characteristic van pattern, famous for love of water</string>
+    <string name="turkish_van_care_tips">Brush once a week, no undercoat. Very active, need daily games. Love water - can arrange swimming sessions. Provide climbing opportunities.</string>
+    <string name="turkish_van_fun_fact">Called 'swimming cats' - they can swim in Lake Van. Water-repellent coat resembles cashmere texture</string>
+
+    <string name="ural_rex_name">Ural Rex</string>
+    <string name="ural_rex_short_description">Russian aboriginal breed with unique curly coat resembling karakul fur</string>
+    <string name="ural_rex_care_tips">Gentle brushing with special rounded-tip comb, possible trimming during shedding period. Cannot tolerate loneliness - consider getting second cat.</string>
+    <string name="ural_rex_fun_fact">Coat practically doesn't shed and resembles lamb's fleece. Breed founder was a cat named Vasily from Zarechny, born in 1988</string>
+
+    <string name="highland_fold_name">Highland Fold</string>
+    <string name="highland_fold_short_description">Long-haired Scottish fold cat with folded ears and plush coat, known for calm and sweet temperament</string>
+    <string name="highland_fold_care_tips">Brush at least twice weekly to prevent matting, daily during shedding season. Check ears regularly as they collect dirt easily. Monitor weight as prone to obesity.</string>
+    <string name="highland_fold_fun_fact">Originally appeared in Scottish Fold litters as long-haired variants, these cats often sit in 'Buddha pose' with legs extended</string>
+
+    <string name="chartreux_name">Chartreux</string>
+    <string name="chartreux_short_description">French blue-gray cat with copper eyes, known as 'smiling cat of France' for quiet, gentle nature</string>
+    <string name="chartreux_care_tips">Brush 2-3 times weekly during shedding. Water-resistant coat takes longer to wet during baths. May be hypoallergenic due to minimal shedding.</string>
+    <string name="chartreux_fun_fact">Lived in French monasteries with silent monks, developing their characteristically quiet voice. General Charles de Gaulle owned a Chartreux named Gris-Gris</string>
+
+    <string name="scottish_fold_name">Scottish Fold</string>
+    <string name="scottish_fold_short_description">Medium-sized cat with distinctive folded ears and round face, creating an owl-like appearance</string>
+    <string name="scottish_fold_care_tips">Weekly brushing sufficient for short coat. Ears need regular but gentle cleaning. Monitor for joint issues. Avoid breeding fold to fold.</string>
+    <string name="scottish_fold_fun_fact">All fold kittens are born with straight ears that fold around 3-4 weeks. Founded by a white barn cat named Susie discovered in 1961</string>
+
+    <string name="exotic_shorthair_name">Exotic Shorthair</string>
+    <string name="exotic_shorthair_short_description">Short-haired Persian with flat face and plush coat, often called 'Persian for lazy people'</string>
+    <string name="exotic_shorthair_care_tips">Brush 2-3 times weekly, daily eye cleaning due to tear staining. Monitor breathing due to flat face. Regular dental care needed.</string>
+    <string name="exotic_shorthair_fun_fact">Created accidentally in 1960s when trying to improve American Shorthair coat. Often called 'teddy bear cats' for their plush appearance</string>
+
+    <string name="javanese_name">Javanese</string>
+    <string name="javanese_short_description">Semi-longhaired Oriental cat with silky coat and triangular head, very vocal and active</string>
+    <string name="javanese_care_tips">Weekly brushing as no undercoat prevents matting. Very active, needs climbing trees and interactive toys. Highly social, dislikes being alone.</string>
+    <string name="javanese_fun_fact">Named after Java island near Bali, though never actually from Java. Created as colorpoint variation of Balinese cats with non-traditional colors</string>
+
+    <string name="japanese_bobtail_name">Japanese Bobtail</string>
+    <string name="japanese_bobtail_short_description">Ancient Japanese breed with a distinctive pom-pom tail and friendly, playful nature</string>
+    <string name="japanese_bobtail_care_tips">Weekly brushing is sufficient, provide plenty of interactive toys and climbing opportunities. Very low-maintenance breed with no special grooming needs. They love to play fetch and are excellent jumpers.</string>
+    <string name="japanese_bobtail_fun_fact">Each Japanese Bobtail's tail is unique like a fingerprint - no two tails are exactly the same shape!</string>
+
+    <string name="chausie_name">Chausie</string>
+    <string name="chausie_short_description">Hybrid of wild jungle cat and domestic cat, creating a large, athletic, and intelligent breed</string>
+    <string name="chausie_care_tips">Needs lots of space and activity, enjoys water play. Brush during shedding periods. Requires experienced cat owners and plenty of mental stimulation. Not suitable for small apartments.</string>
+    <string name="chausie_fun_fact">One of the world's most expensive cat breeds - a kitten can cost up to $10,000 due to their wild heritage!</string>
+
+    <string name="celtic_name">Celtic (European Shorthair)</string>
+    <string name="celtic_short_description">Natural European breed developed without artificial breeding, known for robust health and independent nature</string>
+    <string name="celtic_care_tips">Minimal care required - weekly brushing is enough. Excellent health with no genetic issues. Independent cats that don't need constant attention but appreciate affection on their terms.</string>
+    <string name="celtic_fun_fact">This breed developed naturally over centuries without human intervention, making them one of the healthiest cat breeds</string>
+
+    <string name="minskin_name">Minskin</string>
+    <string name="minskin_short_description">Experimental breed with short legs and hairless body except for fur "points" on extremities</string>
+    <string name="minskin_care_tips">Regular baths with special shampoo, protection from cold and sun. Needs constant human companionship and may require heated bedding in winter. Very social and shouldn't be left alone long.</string>
+    <string name="minskin_fun_fact">Created from genes of four different breeds: Sphynx, Munchkin, Devon Rex, and Burmese, with only about 100 cats worldwide!</string>
+
+    <string name="napoleon_name">Napoleon (Minuet)</string>
+    <string name="napoleon_short_description">Tiny breed with short legs and Persian-like face, maintaining kitten-like appearance throughout life</string>
+    <string name="napoleon_care_tips">Daily brushing for long-haired variety, weekly for short-haired. Provide safe access to furniture due to short legs. Indoor-only cats as they cannot defend themselves outdoors.</string>
+    <string name="napoleon_fun_fact">Disney Corporation research found that Napoleon cats are one of the most effective stress-relief animals for both adults and children!</string>
+
+    <string name="oriental_longhair_name">Oriental Longhair</string>
+    <string name="oriental_longhair_short_description">Elegant semi-longhaired relative of Siamese cats with over 300 color combinations and talkative nature</string>
+    <string name="oriental_longhair_care_tips">Weekly brushing to prevent matting, no undercoat makes grooming easier. Provide mental stimulation and interactive play. Regular dental care recommended due to breed predisposition.</string>
+    <string name="oriental_longhair_fun_fact">Over 300 different color and pattern combinations are recognized in this breed - more than almost any other cat breed!</string>
+
+    <string name="serengeti_name">Serengeti</string>
+    <string name="serengeti_short_description">Wild-looking spotted breed created to resemble servals without using wild cat genetics</string>
+    <string name="serengeti_care_tips">Weekly brushing during shedding season. Provide plenty of climbing opportunities and exercise. Can be walked on leash like dogs and enjoy outdoor adventures safely.</string>
+    <string name="serengeti_fun_fact">Despite looking like wild servals, no wild cat DNA was used - they're 100% domestic cat created from Bengals and Orientals!</string>
+
+    <string name="toybob_name">Toybob (Skif-tai-don)</string>
+    <string name="toybob_short_description">Russia's smallest breed with bobbed tail and dog-like loyalty, weighing only 2-3 pounds when fully grown</string>
+    <string name="toybob_care_tips">Minimal grooming needed, weekly brushing sufficient. Protect from larger pets and high furniture due to tiny size. Needs constant companionship and warmth in cold weather.</string>
+    <string name="toybob_fun_fact">The world's smallest natural cat breed - adult cats are about the size of 4-6 month old kittens of other breeds!</string>
+
+    <string name="ukrainian_levkoy_name">Ukrainian Levkoy</string>
+    <string name="ukrainian_levkoy_short_description">Unique hairless breed with folded ears, combining traits of Donskoy and Scottish Fold cats</string>
+    <string name="ukrainian_levkoy_care_tips">Daily skin cleaning with damp cloth, regular bathing with special shampoo. Protect from sun and cold. Provide warm bedding and avoid drafts. Regular ear and eye cleaning.</string>
+    <string name="ukrainian_levkoy_fun_fact">Named after the levkoy flower whose petals resemble the cat's distinctive folded ear shape!</string>
+
+    <string name="elf_name">Elf</string>
+    <string name="elf_short_description">Experimental hairless breed with curved ears reminiscent of mythical elves, created from Sphynx and American Curl</string>
+    <string name="elf_care_tips">Daily skin care with gentle cleaning, weekly bathing. Protect sensitive skin from sun and cold. Regular ear cleaning due to unusual ear shape. Provide warm clothing in winter.</string>
+    <string name="elf_fun_fact">Created to be a healthier alternative to Canadian Sphynx cats while maintaining the hairless appearance with magical elf-like ears!</string>
+
+    <string name="mekong_bobtail_name">Mekong Bobtail</string>
+    <string name="mekong_bobtail_short_description">Russian breed with short kinked tail and dog-like loyalty, developed from Asian bobtailed cats</string>
+    <string name="mekong_bobtail_care_tips">Weekly brushing sufficient, no undercoat. Very clean cats that groom themselves well. Rear claws don't retract fully so they click when walking. Provide secure, warm environment.</string>
+    <string name="mekong_bobtail_fun_fact">These cats have matriarchal society where females are the leaders, and they can live 20-25 years - true feline longevity champions!</string>
+
+    <string name="seychellois_name">Seychellois</string>
+    <string name="seychellois_short_description">British breed with Oriental body type and distinctive white coat with colored points, created without visiting Seychelles</string>
+    <string name="seychellois_care_tips">Weekly brushing needed, daily during shedding. Very social and talkative - needs constant attention and interaction. Provide climbing structures and interactive toys for mental stimulation.</string>
+    <string name="seychellois_fun_fact">Despite the exotic name, this breed was created in England by a breeder who never visited the Seychelles but was inspired by stories of island cats!</string>
+
+    <string name="himalayan_name">Himalayan</string>
+    <string name="himalayan_short_description">Persian-type cat with Siamese coloring, combining the best of both breeds in luxurious long-haired package</string>
+    <string name="himalayan_care_tips">Daily brushing essential to prevent matting. Regular eye cleaning due to flat face. Protect from temperature extremes. Indoor-only cats due to breathing difficulties and grooming needs.</string>
+    <string name="himalayan_fun_fact">Named after Himalayan rabbits with similar coloring, not the mountains! They're actually the result of crossing Persians with Siamese cats.</string>
+
+    <string name="dwelf_name">Dwelf</string>
+    <string name="dwelf_short_description">Experimental hairless breed with curled ears and short legs, combining three genetic mutations in one tiny package</string>
+    <string name="dwelf_care_tips">Daily skin cleaning with damp cloth, weekly baths with special shampoo. Protect from sun and cold with appropriate clothing. Regular ear cleaning due to curved ear shape. Handle gently due to short legs.</string>
+    <string name="dwelf_fun_fact">The rarest breed with only a few dozen cats worldwide! Created from Sphynx, Munchkin, and American Curl - truly a designer cat!</string>
+
+    <string name="kohana_name">Kohana</string>
+    <string name="kohana_short_description">The rarest hairless breed with truly rubber-like skin texture, lacking hair follicles entirely</string>
+    <string name="kohana_care_tips">Kohana cats require special skin care due to complete hairlessness - regular washing with gentle products, protection from sun and cold. Eye care is crucial as they lack eyelashes. These cats need constant attention and don't do well alone for long periods.</string>
+    <string name="kohana_fun_fact">Kohana cats are so rare that there are only about 20-30 in existence worldwide, making them rarer than some endangered wild species!</string>
+
+    <string name="safari_name">Safari</string>
+    <string name="safari_short_description">A rare hybrid breed created from crossing Geoffroy's cat with domestic cats</string>
+    <string name="safari_care_tips">Safari cats need weekly brushing and plenty of physical activity. They require experienced owners due to their wild heritage. Provide climbing opportunities and interactive toys. These cats can be leash trained and enjoy outdoor adventures under supervision.</string>
+    <string name="safari_fun_fact">F1 Safari males can weigh up to 25 pounds despite having parents weighing only 5-12 pounds - a genetic phenomenon that makes them larger than both parent species!</string>
+
+    <string name="skif_tai_don_name">Skif-Tai-Don</string>
+    <string name="skif_tai_don_short_description">One of the world's smallest cat breeds with a kinked bobbed tail, perpetually kitten-like</string>
+    <string name="skif_tai_don_care_tips">Skif-Tai-Don cats require weekly brushing and careful monitoring due to their tiny size. They need constant companionship and don't do well alone. Provide safe climbing areas sized for their small stature and ensure they can't get stuck in small spaces.</string>
+    <string name="skif_tai_don_fun_fact">These cats are so small they remain the size of a 3-6 month old kitten their entire lives, yet they can be taught to "speak" sounds similar to a dog's bark!</string>
+
+    <string name="oriental_tabby_name">Oriental Tabby</string>
+    <string name="oriental_tabby_short_description">An elegant Siamese-type cat with stunning tabby patterns in countless color combinations</string>
+    <string name="oriental_tabby_care_tips">Oriental Tabby cats need minimal grooming but maximum attention. Brush weekly and provide plenty of interactive toys. They require mental stimulation and don't like being left alone. These athletic cats love climbing and jumping, so provide tall cat trees.</string>
+    <string name="oriental_tabby_fun_fact">Oriental cats come in over 300 color and pattern combinations - more than any other cat breed - and they're famous for their goose-like honking vocalizations!</string>
+
+    <!-- Shared -->
+    <string name="cancel">Cancel</string>
+
+</resources>

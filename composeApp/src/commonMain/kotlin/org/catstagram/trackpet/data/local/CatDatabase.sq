@@ -1,0 +1,28 @@
+CREATE TABLE UserCat (
+     id INTEGER PRIMARY KEY AUTOINCREMENT,
+     name TEXT NOT NULL,
+     gender TEXT NOT NULL,
+     birthDate INTEGER NOT NULL,
+     avatarImg BLOB
+);
+
+
+insertNewCat:
+INSERT INTO UserCat (name, gender, birthDate, avatarImg)
+VALUES (?, ?, ?, ?);
+
+updateCat:
+UPDATE UserCat SET
+    name = :name,
+    gender = :gender,
+    birthDate = :birthDate
+WHERE id = :id;
+
+getAllUserCats:
+SELECT * FROM UserCat;
+
+setCatAvatar:
+UPDATE UserCat SET
+    avatarImg = :avatarImg
+WHERE id = :id;
+
